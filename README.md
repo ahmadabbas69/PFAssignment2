@@ -1,1 +1,1 @@
-This repo contains my Programmin Fundamenals Assignment 2
+This repo contains my Programming Fundamenals Assignment 2
